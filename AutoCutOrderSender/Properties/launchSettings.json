@@ -1,0 +1,19 @@
+//STAGING
+//{
+//  "profiles": {
+//    "AutoCutOrderSender": {
+//      "commandName": "Project",
+//      "commandLineArgs": "Nothing"Data Source=To See;Initial Catalog=Here;Integrated Security = Dudes""
+//    }
+//  }
+//}
+
+//ENGINEERING
+{
+  "profiles": {
+    "AutoCutOrderSender": {
+      "commandName": "Project",
+      "commandLineArgs": "Nothing"Data Source=To See;Initial Catalog=Here;Integrated Security = Dudes""
+    }
+  }
+}
